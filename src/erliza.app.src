@@ -1,0 +1,8 @@
+{application, erliza,
+ [
+  {description, "Erlang Eliza"},
+  {vsn, "%VSN%"},
+  {registered, []},
+  {modules, [%MODULES%]},
+  {applications, [kernel, stdlib]}
+ ]}.
