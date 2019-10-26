@@ -8,5 +8,5 @@ having parsers for scripts provide easy interface for the user to compose the co
 Erliza, however, instead of using same parser to matches the input conversation, generates the pattern match-based rule engines
 which is better interface fot the machine. This was intended two things in mind:
 
-# performance and efficiency in production environment
-# extensible framework for actionable conversation in the future
+- performance and efficiency in production environment
+- extensible framework for actionable conversation in the future
