@@ -1,1 +1,1 @@
-include ../system/subdir.mk
+include system/subdir.mk
