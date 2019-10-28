@@ -1,4 +1,4 @@
-include ../../../system/include.mk
+include ../system/include.mk
 
 include ../vsn.mk
 VSN=$(ERLIZA_VSN)
